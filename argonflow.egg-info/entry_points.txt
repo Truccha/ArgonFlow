@@ -1,0 +1,2 @@
+[console_scripts]
+argon-scout = app.main:main
